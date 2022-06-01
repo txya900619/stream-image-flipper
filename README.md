@@ -4,9 +4,6 @@ stream-image-flipper
 A stream image flipper cli
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/@txya900619/stream-image-flipper.svg)](https://npmjs.org/package/@txya900619/stream-image-flipperd)
-[![Downloads/week](https://img.shields.io/npm/dw/stream-image-flipper.svg)](https://npmjs.org/package/@txya900619/stream-image-flipper)
-[![License](https://img.shields.io/npm/l/@txya900619/stream-image-flipper.svg)](https://github.com/txya900619/stream-image-flipper/blob/main/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
