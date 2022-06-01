@@ -4,10 +4,9 @@ stream-image-flipper
 A stream image flipper cli
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/stream-image-flipper.svg)](https://npmjs.org/package/stream-image-flipperd)
-[![CircleCI](https://circleci.com/gh/txya900619/stream-image-flipper/tree/main.svg?style=shield)](https://circleci.com/gh/txya900619/stream-image-flipper/tree/main)
-[![Downloads/week](https://img.shields.io/npm/dw/stream-image-flipper.svg)](https://npmjs.org/package/stream-image-flipper)
-[![License](https://img.shields.io/npm/l/stream-image-flipper.svg)](https://github.com/txya900619/stream-image-flipper/blob/main/package.json)
+[![Version](https://img.shields.io/npm/v/@txya900619/stream-image-flipper.svg)](https://npmjs.org/package/@txya900619/stream-image-flipperd)
+[![Downloads/week](https://img.shields.io/npm/dw/stream-image-flipper.svg)](https://npmjs.org/package/@txya900619/stream-image-flipper)
+[![License](https://img.shields.io/npm/l/@txya900619/stream-image-flipper.svg)](https://github.com/txya900619/stream-image-flipper/blob/main/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
@@ -16,11 +15,11 @@ A stream image flipper cli
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g stream-image-flipper
+$ npm install -g @txya900619/stream-image-flipper
 $ stream-image-flipper COMMAND
 running command...
 $ stream-image-flipper (--version)
-stream-image-flipper/0.0.0 darwin-x64 node-v16.13.0
+@txya900619/stream-image-flipper/0.0.0 darwin-x64 node-v16.13.0
 $ stream-image-flipper --help [COMMAND]
 USAGE
   $ stream-image-flipper COMMAND
@@ -29,20 +28,17 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-- [stream-image-flipper](#stream-image-flipper)
-- [Usage](#usage)
-- [Commands](#commands)
-  - [`stream-image-flipper download URL`](#stream-image-flipper-download-url)
-  - [`stream-image-flipper help [COMMAND]`](#stream-image-flipper-help-command)
-  - [`stream-image-flipper plugins`](#stream-image-flipper-plugins)
-  - [`stream-image-flipper plugins:install PLUGIN...`](#stream-image-flipper-pluginsinstall-plugin)
-  - [`stream-image-flipper plugins:inspect PLUGIN...`](#stream-image-flipper-pluginsinspect-plugin)
-  - [`stream-image-flipper plugins:install PLUGIN...`](#stream-image-flipper-pluginsinstall-plugin-1)
-  - [`stream-image-flipper plugins:link PLUGIN`](#stream-image-flipper-pluginslink-plugin)
-  - [`stream-image-flipper plugins:uninstall PLUGIN...`](#stream-image-flipper-pluginsuninstall-plugin)
-  - [`stream-image-flipper plugins:uninstall PLUGIN...`](#stream-image-flipper-pluginsuninstall-plugin-1)
-  - [`stream-image-flipper plugins:uninstall PLUGIN...`](#stream-image-flipper-pluginsuninstall-plugin-2)
-  - [`stream-image-flipper plugins update`](#stream-image-flipper-plugins-update)
+* [`stream-image-flipper download URL`](#stream-image-flipper-download-url)
+* [`stream-image-flipper help [COMMAND]`](#stream-image-flipper-help-command)
+* [`stream-image-flipper plugins`](#stream-image-flipper-plugins)
+* [`stream-image-flipper plugins:install PLUGIN...`](#stream-image-flipper-pluginsinstall-plugin)
+* [`stream-image-flipper plugins:inspect PLUGIN...`](#stream-image-flipper-pluginsinspect-plugin)
+* [`stream-image-flipper plugins:install PLUGIN...`](#stream-image-flipper-pluginsinstall-plugin-1)
+* [`stream-image-flipper plugins:link PLUGIN`](#stream-image-flipper-pluginslink-plugin)
+* [`stream-image-flipper plugins:uninstall PLUGIN...`](#stream-image-flipper-pluginsuninstall-plugin)
+* [`stream-image-flipper plugins:uninstall PLUGIN...`](#stream-image-flipper-pluginsuninstall-plugin-1)
+* [`stream-image-flipper plugins:uninstall PLUGIN...`](#stream-image-flipper-pluginsuninstall-plugin-2)
+* [`stream-image-flipper plugins update`](#stream-image-flipper-plugins-update)
 
 ## `stream-image-flipper download URL`
 
